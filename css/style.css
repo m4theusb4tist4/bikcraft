@@ -1,2 +1,2 @@
-body {
-}
+@import "./global.css";
+@import "./header.css";
